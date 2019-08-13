@@ -55,6 +55,7 @@ public class Test implements ApplicationContextAware {
         list.add("test1");
         list.add("test2");
          /*   try {
+         阿松大
                 Thread.sleep(100000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
